@@ -8,6 +8,17 @@ BI-Dashboards-Portfolio
 
 This repository contains a Power BI dashboard designed to provide insights into customer behavior and sales performance. The dashboard visualizes key metrics and trends across various dimensions, offering a comprehensive view of revenue, customer segmentation, and sales dynamics.
 
+  The RFM model helps in identifying the most valuable customers by evaluating:
+  - **Recency:** How recently a customer has made a purchase.
+  - **Frequency:** How often a customer makes a purchase.
+  - **Monetary:** How much money a customer spends on purchases.
+  - **Segments:** customers into different categories:
+                  - Best Customers
+                  - Big Spenders
+                  - New Customers
+                  - Loyal Customers
+                  - Others
+
 ## Dashboard Highlights
 
 ### 1. Revenue and Count of Country by Month
