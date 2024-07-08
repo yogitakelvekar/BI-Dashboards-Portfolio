@@ -2,7 +2,7 @@
 BI-Dashboards-Portfolio
 # Customer Behavior and Sales Insights Dashboard
 
-![Customer Behavior and Sales Insights](.png)
+![Customer Behavior and Sales Insights](./dashboard.png)
 
 ## Overview
 
